@@ -10,7 +10,7 @@ def multiply(a,b)
 {
     echo "this product of ${a} and {b} is ${a*b}"
 }
-def divide
+def divide(a,b)
 {
     echo "this division of ${a} and {b} is ${a/b}"       
 }
